@@ -1,98 +1,261 @@
 {
     "temperatura-atual": [
         {
-            "valor": 10
+            "valor": 10,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 11
+            "valor": 11,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 12
+            "valor": 12,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 13
+            "valor": 13,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 14
+            "valor": 14,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 15
+            "valor": 15,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 16
+            "valor": 16,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 17
+            "valor": 17,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 18
+            "valor": 18,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 19
+            "valor": 19,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 20
+            "valor": 20,
+            "status": "ok",
+            "cor": "green"
         },
         {
-            "valor": 21
+            "valor": 21,
+            "status": "alerta",
+            "cor": "yellow"
         },
         {
-            "valor": 22
+            "valor": 22,
+            "status": "alerta",
+            "cor": "yellow"
         },
         {
-            "valor": 23
+            "valor": 23,
+            "status": "alerta",
+            "cor": "yellow"
         },
         {
-            "valor": 24
+            "valor": 24,
+            "status": "alerta",
+            "cor": "yellow"
         },
         {
-            "valor": 25
+            "valor": 25,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 26
+            "valor": 26,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 27
+            "valor": 27,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 28
+            "valor": 28,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 29
+            "valor": 29,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 30
+            "valor": 30,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 31
+            "valor": 31,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 32
+            "valor": 32,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 33
+            "valor": 33,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 34
+            "valor": 34,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 35
+            "valor": 35,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 36
+            "valor": 36,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 37
+            "valor": 37,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 38
+            "valor": 38,
+            "status": "arriscada",
+            "cor": "red"
         },
         {
-            "valor": 39
+            "valor": 39,
+            "status": "arriscada",
+            "cor": "red"
         }
     ],
     "temperatura-alarmes": {
         "valor": 35
     },
-    "temperatura-historico": []
+    "temperatura-historico": [
+        {
+            "valor": 10,
+            "data": "2020-07-01",
+            "status": "ok",
+            "cor": "green"
+        },
+        {
+            "valor": 14,
+            "data": "2020-07-05",
+            "status": "ok",
+            "cor": "green"
+        },
+        {
+            "valor": 15,
+            "data": "2020-07-06",
+            "status": "ok",
+            "cor": "green"
+        },
+        {
+            "valor": 19,
+            "data": "2020-07-10",
+            "status": "ok",
+            "cor": "green"
+        },
+        {
+            "valor": 20,
+            "data": "2020-07-11",
+            "status": "ok",
+            "cor": "green"
+        },
+        {
+            "valor": 21,
+            "data": "2020-07-12",
+            "status": "alerta",
+            "cor": "yellow"
+        },
+        {
+            "valor": 22,
+            "data": "2020-07-13",
+            "status": "alerta",
+            "cor": "yellow"
+        },
+        {
+            "valor": 23,
+            "data": "2020-07-14",
+            "status": "alerta",
+            "cor": "yellow"
+        },
+        {
+            "valor": 27,
+            "data": "2020-07-18",
+            "status": "arriscada",
+            "cor": "red"
+        },
+        {
+            "valor": 28,
+            "data": "2020-07-19",
+            "status": "arriscada",
+            "cor": "red"
+        },
+        {
+            "valor": 29,
+            "data": "2020-07-20",
+            "status": "arriscada",
+            "cor": "red"
+        },
+        {
+            "valor": 32,
+            "data": "2020-07-23",
+            "status": "arriscada",
+            "cor": "red"
+        },
+        {
+            "valor": 33,
+            "data": "2020-07-24",
+            "status": "arriscada",
+            "cor": "red"
+        },
+        {
+            "valor": 34,
+            "data": "2020-07-25",
+            "status": "arriscada",
+            "cor": "red"
+        },
+        {
+            "valor": 35,
+            "data": "2020-07-26",
+            "status": "arriscada",
+            "cor": "red"
+        },
+        {
+            "valor": 38,
+            "data": "2020-07-29",
+            "status": "arriscada",
+            "cor": "red"
+        },
+        {
+            "valor": 39,
+            "data": "2020-07-30",
+            "status": "arriscada",
+            "cor": "red"
+        }
+    ]
 }
