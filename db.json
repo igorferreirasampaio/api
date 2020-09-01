@@ -1,7 +1,8 @@
 {
     "temperatura-atual": [
         {
-            "valor": 10
+            "valor": 10,
+            "status": ""
         },
         {
             "valor": 11
@@ -94,5 +95,11 @@
     "temperatura-alarmes": {
         "valor": 35
     },
-    "temperatura-historico": []
+    "temperatura-historico": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
 }
