@@ -1,8 +1,7 @@
 {
     "temperatura-atual": {
         "valor": 10,
-        "status": "ok",
-        "cor": "green"
+        "status": "ok"
     },
     "temperatura-alarmes": {
         "valor": 35
@@ -11,104 +10,87 @@
         {
             "valor": 10,
             "data": "2020-07-01",
-            "status": "ok",
-            "cor": "green"
+            "status": "ok"
         },
         {
             "valor": 14,
             "data": "2020-07-05",
-            "status": "ok",
-            "cor": "green"
+            "status": "ok"
         },
         {
             "valor": 15,
             "data": "2020-07-06",
-            "status": "ok",
-            "cor": "green"
+            "status": "ok"
         },
         {
             "valor": 19,
             "data": "2020-07-10",
-            "status": "ok",
-            "cor": "green"
+            "status": "ok"
         },
         {
             "valor": 20,
             "data": "2020-07-11",
-            "status": "ok",
-            "cor": "green"
+            "status": "ok"
         },
         {
             "valor": 21,
             "data": "2020-07-12",
-            "status": "alerta",
-            "cor": "yellow"
+            "status": "alerta"
         },
         {
             "valor": 22,
             "data": "2020-07-13",
-            "status": "alerta",
-            "cor": "yellow"
+            "status": "alerta"
         },
         {
             "valor": 23,
             "data": "2020-07-14",
-            "status": "alerta",
-            "cor": "yellow"
+            "status": "alerta"
         },
         {
             "valor": 27,
             "data": "2020-07-18",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         },
         {
             "valor": 28,
             "data": "2020-07-19",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         },
         {
             "valor": 29,
             "data": "2020-07-20",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         },
         {
             "valor": 32,
             "data": "2020-07-23",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         },
         {
             "valor": 33,
             "data": "2020-07-24",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         },
         {
             "valor": 34,
             "data": "2020-07-25",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         },
         {
             "valor": 35,
             "data": "2020-07-26",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         },
         {
             "valor": 38,
             "data": "2020-07-29",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         },
         {
             "valor": 39,
             "data": "2020-07-30",
-            "status": "arriscada",
-            "cor": "red"
+            "status": "arriscada"
         }
     ]
 }
